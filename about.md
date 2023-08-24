@@ -26,49 +26,18 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+I'm Young. My full name is Ling Young Loon. I grew up in Singapore, and study Economics at LSE. The pulse of capital through peoples, cities, and histories fascinates me. I program almost daily. It is now an inveterate extension of my self.
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+> Civilization advances by extending the number of important operations which we can perform without thinking of them
 
-## Features
+This is my 2nd personal website. I was unsatisfied with the first as I couldn't write as expressively as I hoped. I missed sitting down and smithing words together. To write is to be bold and be permenant. That is courage of the highest order.
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+For leisure, I scroll github. Or sometimes read Proust, amongst many others.
 
-## Skins
+I dream a lot.
 
-TeXt has 6 built-in skins, you can also set up your own skin.
-
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
-
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
-
-### Highlight Theme
-
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
-
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+## Stuff I care about:
+1. The shortcomings and strengths of capitalist value systems
+2. The intersection of machine learning and econometrics
+3. Decentralization
