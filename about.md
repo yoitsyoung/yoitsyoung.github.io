@@ -38,6 +38,6 @@ For leisure, I scroll github. Or sometimes read Proust, amongst many others.
 I dream a lot.
 
 ## Stuff I care about:
-1. The shortcomings and strengths of capitalist value systems
-2. The intersection of machine learning and econometrics
-3. Decentralization
+1. Monetary aggregates & the plumbing
+2. Machine Learning v Econometrics
+3. Decentralization preceding singularity
