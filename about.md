@@ -27,7 +27,7 @@ key: page-about
 ---
 
 
-I'm Young. My full name is Ling Young Loon. I grew up in Singapore, and study Economics at LSE. The pulse of capital through peoples, cities, and histories fascinates me. I program almost daily. It is now an inveterate extension of my self.
+I'm Young. My full name is Ling Young Loon. I grew up in Singapore, and study Economics at LSE. The pulse of capital through peoples, cities, and histories fascinates me. I trade and invest, and spend the rest of my time programming. It is now an inveterate extension of my self.
 
 > Civilization advances by extending the number of important operations which we can perform without thinking of them
 
@@ -38,6 +38,6 @@ For leisure, I scroll github. Or sometimes read Proust, amongst many others.
 I dream a lot.
 
 ## Stuff I care about:
-1. Monetary aggregates & the plumbing
-2. Machine Learning v Econometrics
-3. Decentralization preceding singularity
+- Monetary aggregates & its plumbing
+- Machine Learning v Econometrics
+- Decentralization preceding the Singularity
