@@ -27,11 +27,11 @@ key: page-about
 ---
 
 
-I'm Young. My full name is Ling Young Loon. I grew up in Singapore, and study Economics at LSE. The pulse of capital through peoples, cities, and histories fascinates me. I trade and invest, and spend the rest of my time programming. It is now an inveterate extension of my self.
+I'm Young. My full name is Ling Young Loon. I grew up in Singapore, and study Economics at LSE. Capital pulses through peoples, cities, and histories. That fascinates me. I trade and invest, and while I twiddle my thumbs for my theses to play out, I program. Code is now an inveterate extension of my self.
 
 > Civilization advances by extending the number of important operations which we can perform without thinking of them
 
-This is my 2nd personal website. I was unsatisfied with the first as I couldn't write as expressively as I hoped. I missed sitting down and smithing words together. To write is to be bold and be permenant. That is courage of the highest order.
+This is my 2nd personal website. I was unsatisfied with the first as I couldn't write as expressively as I hoped. I missed sitting down and smithing my thoughts into words. To write is to be bold and be permenant. That is courage of the highest order.
 
 For leisure, I scroll github. Or sometimes read Proust, amongst many others.
 

@@ -10,7 +10,7 @@ Econometrics is the study of causality. The core of econometrics is the OLS (Ord
 
 Economic applications revolve around the condition of ceteris paribus; or "all other things being equal". What happens to y for a 1 unit/1 percent change in x? Machine learning revolves around the condition of mutatis mutandis; or "allowing other things to change accordingly". This targets the problem of prediction through a multiple-correlation approach.  For the former, causality is explicit and interpretable. for the latter, causality is a wicked, complex problem, and causal channels are often a black box.
 
-Econometricians care about efficiency (reducing variance in the beta estimate), and how strong the (often qualitative) argument for causality is. They care about dealing with data specific to societal and market behaviour, which will have its quirks. They also care about using creative ways to argue for causality, identifying so called "natural experiments" in their studies.
+Econometricians care about efficiency (reducing variance in the beta estimate), and how strong the inductive argument for causality is. They care about dealing with data specific to societal and market behaviour, which will have its quirks. They also care about using creative ways to argue for causality, identifying so called "natural experiments" in their studies.
 
 Machine Learning scientists care about the bias-variance trade off, and the balance between the overfitting and accuracy of a prediction model. Besides prediction, machine learning scientists also work on extracting information from high volumes of data. The former is commonly known as "supervised learning", and the latter, "unsupervised".
 
