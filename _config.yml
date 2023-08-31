@@ -214,7 +214,19 @@ defaults:
       show_edit_on_github: false
       show_subscribe: false
       pageview: true
+  - scope:
+      path: ""
+      type: podcasts
+    values:
+      nav_key: podcasts
 
+
+collections_dir: podcasts
+collections:
+  podcasts:
+    output: true
+  posts:
+    output: true
 
 ## => Plugins
 ##############################
