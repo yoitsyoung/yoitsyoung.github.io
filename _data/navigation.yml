@@ -1,4 +1,10 @@
 header:
+
+
+  - title: Shownotes
+    url: /podcasts.html
+  - title: Spotify
+    url: https://open.spotify.com/show/0vJcYImaQ7378tjUqtSkyM
   - titles:
       # @start locale config
       en      : &EN       About
@@ -24,9 +30,6 @@ header:
       tr      : &TR       Hakkında
       # @end locale config
     url: /about.html
-
-  - title: Podcast
-    url: https://open.spotify.com/show/0vJcYImaQ7378tjUqtSkyM
 
 docs-en:
   - title: Crypto
