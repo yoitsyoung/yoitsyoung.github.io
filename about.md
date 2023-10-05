@@ -27,7 +27,7 @@ key: page-about
 ---
 
 
-I'm Young. My full name is Ling Young Loon. I grew up in Singapore, and study Economics at LSE. Capital pulses through peoples, cities, and histories. That fascinates me. I trade and invest, and while I twiddle my thumbs for my theses to play out, I program. Code is now an inveterate extension of my self.
+I'm Young. My full name is Ling Young Loon. I grew up in Singapore, and study Econometrics & Mathematical Economics at LSE. Capital pulses through peoples, cities, and histories. That fascinates me. I trade and invest, and while I twiddle my thumbs for my theses to play out, I program. Code is now an inveterate extension of my self.
 
 > Civilization advances by extending the number of important operations which we can perform without thinking of them
 
