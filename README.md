@@ -10,7 +10,7 @@ I faced the issue of wanting to link some of my posts, especially those I have w
 
 
 ### To dos
-Prune the directory. And write more.
+Prune directory as right now my main document folders are all in podcasts under _posts
 
 ### Issues I faced
 I couldn't use the sidebar navigation linkages.
