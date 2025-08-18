@@ -1,0 +1,16 @@
+{
+  "buildCommand": "ruby --version && gem --version && gem install bundler --no-document && bundle install --deployment --path vendor/bundle && bundle exec jekyll build --verbose",
+  "outputDirectory": "_site",
+  "framework": null,
+  "installCommand": "npm install",
+  "functions": {},
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "_site"
+      }
+    }
+  ]
+}
