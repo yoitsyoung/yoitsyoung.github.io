@@ -1,0 +1,10 @@
+{
+  "build": {
+    "env": {
+      "RUBY_VERSION": "3.2.0",
+      "JEKYLL_ENV": "production"
+    }
+  },
+  "buildCommand": "bundle exec jekyll build",
+  "outputDirectory": "_site"
+}
