@@ -1,0 +1,18 @@
+[build]
+  command = "bundle exec jekyll build"
+  publish = "_site"
+
+[build.environment]
+  RUBY_VERSION = "3.0.0"
+  NODE_VERSION = "16"
+
+[context.production.environment]
+  JEKYLL_ENV = "production"
+
+[context.branch-deploy.environment]
+  JEKYLL_ENV = "production"
+
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404
